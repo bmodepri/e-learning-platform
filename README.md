@@ -44,7 +44,7 @@ yarn install
 yarn start 
 ```
 
-#### :earth_africa: expo will automatically open the metro bundler at your defaultbrowser.
+#### :earth_africa: expo will automatically open the metro bundler at your default browser.
 
 
 ![](./readme/img/expo_metro_bundler.png)
