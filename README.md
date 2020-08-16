@@ -113,7 +113,7 @@ Sample:
 
 ## :earth_americas: web: 
 
-The web version of the proffy app, here we can access a beautiful landing page, apagefor "proffys" to record the classes they are offering, a page for students tosearch forproffys and contact them directly via whatsapp.
+The web version of the proffy app, here we can access a beautiful landing page, a page for "proffys" to record the classes they are offering, a page for students to search for teachers and contact them directly via whatsapp.
 
 ### :package: Stack: 
 * [react-native](https://reactnative.dev/)
@@ -123,8 +123,14 @@ The web version of the proffy app, here we can access a beautiful landing page, 
 #### :white_check_mark: Prepare your environment:
 
 * :one: clone the repository from git
-* :two: run:  yarn install
-* :three: run: yarn start 
+* :two: run:  
+```
+yarn install
+```
+* :three: run:  
+```
+yarn start 
+```
 
 ###### The app will open on your default browser, and now you are ready to Learn/Teach :wink:
 ![](./readme/img/proffy_landing_page.png)
