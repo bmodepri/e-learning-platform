@@ -136,6 +136,6 @@ yarn start
 ![](./readme/img/proffy_landing_page.png)
 
 *******************************        
-###### Thanks to Rocketseat: 
+###### Thanks to [Rocketseat](https://rocketseat.com.br/): 
 The version 2 will be created as a challenge: 
 * details are [here](https://www.notion.so/Vers-o-2-0-Proffy-eefca1b981694cd0a895613bc6235970)
