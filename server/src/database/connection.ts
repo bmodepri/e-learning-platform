@@ -5,8 +5,8 @@ const db = knex({
     version: '12.1',
     connection: {
       host : '127.0.0.1',
-      user : 'postgres',
-      password : 'PpR88jss',
+      user : 'proffy',
+      password : 'proffy',
       database : 'postgres'
     }
 });

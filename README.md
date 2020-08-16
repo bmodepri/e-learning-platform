@@ -1,16 +1,36 @@
-# react-react-native
+# Proffy - React application to allow students to connect with teachers for several topics
 
-## Study repository with an app using react + react native
+:rocket: Thanks to RocketSeat for providing this [amazing](https://rocketseat.com.br/) 1 week bootcamp :clap:
 
- ** The first version of the application includes tree solutions:
+:one: The first version includes tree solutions:
 
-    - mobile: 
-        -- mobile version of the Proffy application containing a landing page, a page for students to search for proffys and contact them directly via whatsapp.
-        # Stack: 
+    :iphone: mobile: 
+        The mobile version of the Proffy application containing a landing page, a page for students to search for proffys and contact them directly via whatsapp.
+        :package: Stack: 
             -- react-native
             -- axios
             -- typescript
             -- expo
+        
+        :information_source: How to run the mobile application at your local machine:
+
+            :wrench: First, install the required tools:
+
+                [NodeJs](https://nodejs.org/en/download/)  
+                [yarn](https://yarnpkg.com/getting-started/install): npm install -g yarn
+                [expo-cli](https://expo.io/tools#cli): yarn global add expo-cli
+
+            :white_check_mark: Prepare your environment:
+                :one: clone the repository from git
+                :two: run:  yarn install
+                :tree: run: yarn start 
+
+            :earth_africa: expo will automatically open the metro bundler at your default browser.
+
+            ![](./readme/img/expo_metro_bundler.png)
+
+            you can select the suimulators or scan the QR code with your mobile phone, 
+            for that you will need to install expo at your mobile phone from the app store.
 
     - server:
         -- An api that allow us to record classes, connections, schedules and users and query proffys by filtering their time availability.
