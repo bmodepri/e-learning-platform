@@ -81,8 +81,14 @@ npm install -g yarn
 #### :white_check_mark: Prepare your environment:
 
 * :one: clone the repository from git
-* :two: run:  yarn install
-* :three: run: yarn start 
+* :two: run:  
+```
+yarn install
+```
+* :three: run:
+```
+yarn start
+```
 
 #### :tada: Now you are ready to consume some Proffy data from the api
 ###### :envelope: to test the http requests you can use one of the following tools:
