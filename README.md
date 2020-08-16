@@ -69,6 +69,26 @@ An api that allow us to record classes, connections, schedules and users and que
 * :two: run:  yarn install
 * :three: run: yarn start 
 
+#### :tada: Now you are ready to consume some Proffy data from the api
+###### :envelope: to test the http requests you can use one of the following tools:
+
+* [Postman](https://www.postman.com/)
+* [Insomnia](https://insomnia.rest/)
+
+:envelope:by sending a GET request from your preferred tool to one of the available endpoints:
+
+:email:GET: 
+http://localhost:3333/classes
+http://localhost:3333/connections
+
+:outbox_tray:POST: 
+http://localhost:3333/classes
+http://localhost:3333/connections
+
+Sample:
+![](./readme/img/api_get_from_postman.png)
+
+###### :x:you should get some empty response if you did not runned the Web app in order to create some classes, users or connections. But don't worry you can try that out by following the steps to set up the WebApp :arrow_down:
 
 ## :earth_americas: web: 
 
