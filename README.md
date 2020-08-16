@@ -49,7 +49,7 @@ yarn start
 
 ![](./readme/img/expo_metro_bundler.png)
 
-you can select the suimulators or scan the QR code with your mobile phone, 
+you can select the simulators or scan the QR code with your mobile phone, 
 for that you will need to install expo at your mobile phone from the app store.
 
 
