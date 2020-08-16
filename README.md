@@ -10,7 +10,7 @@
 
 ## :iphone: mobile: 
 
-The mobile version of the Proffy application containing a landing page, a page for students to search for proffys and contact them directly via whatsapp.
+The mobile version of the Proffy application containing a landing page, a page for students to search for teachers and contact them directly via whatsapp.
 
 ### :package: Stack: 
 * [react-native](https://reactnative.dev/)
