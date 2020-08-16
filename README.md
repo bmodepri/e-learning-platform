@@ -25,11 +25,11 @@ The mobile version of the Proffy application containing a landing page, a page f
 * [NodeJs](https://nodejs.org/en/download/)  
 * [yarn](https://yarnpkg.com/getting-started/install):  
 ```
-npm install -g yarn
+$ npm install -g yarn
 ```
 * [expo-cli](https://expo.io/tools#cli):  
 ```
-yarn global add expo-cli
+$ yarn global add expo-cli
 ```
 
 #### :white_check_mark: Prepare your environment:
@@ -37,11 +37,11 @@ yarn global add expo-cli
 * :one: clone the repository from git
 * :two: run:  
 ```
-yarn install
+$ yarn install
 ```
 * :three: run:  
 ```
-yarn start 
+$ yarn start 
 ```
 
 #### :earth_africa: expo will automatically open the metro bundler at your default browser.
@@ -73,7 +73,7 @@ An api that allow us to record classes, connections, schedules and users and que
 * [NodeJs](https://nodejs.org/en/download/)  
 * [yarn](https://yarnpkg.com/getting-started/install):  
 ```
-npm install -g yarn
+$ npm install -g yarn
 ```
 * [postgresql](https://www.postgresql.org/download/)
 
@@ -83,11 +83,11 @@ npm install -g yarn
 * :one: clone the repository from git
 * :two: run:  
 ```
-yarn install
+$ yarn install
 ```
 * :three: run:
 ```
-yarn start
+$ yarn start
 ```
 
 #### :tada: Now you are ready to consume some Proffy data from the api
@@ -96,13 +96,13 @@ yarn start
 * [Postman](https://www.postman.com/)
 * [Insomnia](https://insomnia.rest/)
 
-:envelope:by sending a GET request from your preferred tool to one of the available endpoints:
+:postbox: by sending a GET request from your preferred tool to one of the available endpoints:
 
-:email:GET: 
+:email: GET: 
 http://localhost:3333/classes
 http://localhost:3333/connections
 
-:outbox_tray:POST: 
+:outbox_tray: POST: 
 http://localhost:3333/classes
 http://localhost:3333/connections
 
@@ -125,17 +125,17 @@ The web version of the proffy app, here we can access a beautiful landing page, 
 * :one: clone the repository from git
 * :two: run:  
 ```
-yarn install
+$ yarn install
 ```
 * :three: run:  
 ```
-yarn start 
+$ yarn start 
 ```
 
 ###### The app will open on your default browser, and now you are ready to Learn/Teach :wink:
 ![](./readme/img/proffy_landing_page.png)
 
 *******************************        
-###### Thanks to [Rocketseat](https://rocketseat.com.br/): 
+###### :purple_heart: Thanks to [Rocketseat](https://rocketseat.com.br/): 
 The version 2 will be created as a challenge: 
 * details are [here](https://www.notion.so/Vers-o-2-0-Proffy-eefca1b981694cd0a895613bc6235970)
