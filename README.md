@@ -1,30 +1,38 @@
 # Proffy - React application to allow students to connect with teachers for several topics
 
-:rocket: Thanks to RocketSeat for providing this [amazing](https://rocketseat.com.br/) 1 week bootcamp :clap:
+
+
+# :rocket: Thanks to RocketSeat for providing this [amazing](https://rocketseat.com.br/) 1 week bootcamp :clap:
+
+
+
 
 :one: The first version includes tree solutions:
 
+
 :iphone: mobile: 
+
 The mobile version of the Proffy application containing a landing page, a page forstudentsto search for proffys and contact them directly via whatsapp.
 
-#:package: Stack: 
-    -- react-native
-    -- axios
-    -- typescript
-    -- expo
+## :package: Stack: 
+* react-native
+* axios
+* typescript
+* expo
     
 :information_source: How to run the mobile application at your local machine:
 :wrench: First, install the required tools:
 
-.[NodeJs](https://nodejs.org/en/download/)  
-.[yarn](https://yarnpkg.com/getting-started/install): npm install -g yarn
-.[expo-cli](https://expo.io/tools#cli): yarn global add expo-cli
+* [NodeJs](https://nodejs.org/en/download/)  
+* [yarn](https://yarnpkg.com/getting-started/install): npm install -g yarn
+* [expo-cli](https://expo.io/tools#cli): yarn global add expo-cli
 
 :white_check_mark: Prepare your environment:
 
-.:one: clone the repository from git
-.:two: run:  yarn install
-.:tree: run: yarn start 
+* :one: clone the repository from git
+* :two: run:  yarn install
+* :tree: run: yarn start 
+
 :earth_africa: expo will automatically open the metro bundler at your defaultbrowser.
 ![](./readme/img/expo_metro_bundler.png)
 
