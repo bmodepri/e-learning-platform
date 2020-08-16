@@ -109,7 +109,7 @@ http://localhost:3333/connections
 Sample:
 ![](./readme/img/api_get_from_postman.png)
 
-###### :x: You should get some empty response if you did not runned the Web app in order to create some classes, users or connections. But don't worry, you can try that out by following the steps to set up the WebApp :arrow_down:
+###### :x: You should get some empty response if you did not run the Web app in order to create some classes, users or connections. But don't worry, you can try that out by following the steps to set up the WebApp :arrow_down:
 
 ## :earth_americas: web: 
 
