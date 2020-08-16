@@ -34,7 +34,7 @@ $ yarn global add expo-cli
 
 #### :white_check_mark: Prepare your environment:
 
-:one: clone the repository from git  
+:one: clone the repository from [git](https://github.com/bmodepri/e-learning-platform.git) (all three solutions are already included)  
 :two: run:  
 ```
 $ yarn install
@@ -80,7 +80,7 @@ $ npm install -g yarn
 
 #### :white_check_mark: Prepare your environment:
 
-:one: clone the repository from git  
+:one: clone the repository from [git](https://github.com/bmodepri/e-learning-platform.git) (all three solutions are already included)  
 :two: run:  
 ```
 $ yarn install
@@ -122,7 +122,7 @@ The web version of the proffy app, here we can access a beautiful landing page, 
 
 #### :white_check_mark: Prepare your environment:
 
-:one: clone the repository from git
+:one: clone the repository from [git](https://github.com/bmodepri/e-learning-platform.git) (all three solutions are already included)  
 :two: run:  
 ```
 $ yarn install  
