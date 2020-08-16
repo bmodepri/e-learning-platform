@@ -34,7 +34,7 @@ $ yarn global add expo-cli
 
 #### :white_check_mark: Prepare your environment:
 
-:one: clone the repository from git
+:one: clone the repository from git  
 :two: run:  
 ```
 $ yarn install
@@ -80,12 +80,12 @@ $ npm install -g yarn
 
 #### :white_check_mark: Prepare your environment:
 
-:one: clone the repository from git
+:one: clone the repository from git  
 :two: run:  
 ```
 $ yarn install
 ```
-:three: run:
+:three: run:  
 ```
 $ yarn start
 ```
@@ -125,7 +125,7 @@ The web version of the proffy app, here we can access a beautiful landing page, 
 :one: clone the repository from git
 :two: run:  
 ```
-$ yarn install
+$ yarn install  
 ```
 :three: run:  
 ```
