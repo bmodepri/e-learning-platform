@@ -99,12 +99,12 @@ $ yarn start
 :postbox: by sending a GET request from your preferred tool to one of the available endpoints:
 
 :email: GET: 
-http://localhost:3333/classes
-http://localhost:3333/connections
+http://localhost:3333/classes  
+http://localhost:3333/connections  
 
 :outbox_tray: POST: 
-http://localhost:3333/classes
-http://localhost:3333/connections
+http://localhost:3333/classes  
+http://localhost:3333/connections  
 
 Sample:
 ![](./readme/img/api_get_from_postman.png)
