@@ -71,7 +71,10 @@ An api that allow us to record classes, connections, schedules and users and que
 :wrench: First, install the required tools:
 
 * [NodeJs](https://nodejs.org/en/download/)  
-* [yarn](https://yarnpkg.com/getting-started/install): npm install -g yarn
+* [yarn](https://yarnpkg.com/getting-started/install):  
+```
+npm install -g yarn
+```
 * [postgresql](https://www.postgresql.org/download/)
 
 
