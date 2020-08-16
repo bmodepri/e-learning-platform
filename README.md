@@ -15,10 +15,10 @@
 The mobile version of the Proffy application containing a landing page, a page forstudentsto search for proffys and contact them directly via whatsapp.
 
 ### :package: Stack: 
-* react-native
-* axios
-* typescript
-* expo
+* ![react-native](https://reactnative.dev/img/header_logo.svg)
+* ![axios](https://reactnative.dev/img/header_logo.svg)
+* ![typescript](https://www.typescriptlang.org/)
+* ![expo](https://docs.expo.io/static/images/header/sdk.svg)
     
 #### :information_source: How to run the mobile application at your local machine:
 :wrench: First, install the required tools:
@@ -31,7 +31,7 @@ The mobile version of the Proffy application containing a landing page, a page f
 
 * :one: clone the repository from git
 * :two: run:  yarn install
-* :tree: run: yarn start 
+* :three: run: yarn start 
 
 #### :earth_africa: expo will automatically open the metro bundler at your defaultbrowser.
 
