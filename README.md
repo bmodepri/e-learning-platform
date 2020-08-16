@@ -10,36 +10,39 @@
 :one: The first version includes tree solutions:
 
 
-## :iphone: mobile: 
-
-The mobile version of the Proffy application containing a landing page, a page forstudentsto search for proffys and contact them directly via whatsapp.
-
-### :package: Stack: 
-* react-native
-* axios
-* typescript
-* expo
+    ## :iphone: mobile: 
     
-#### :information_source: How to run the mobile application at your local machine:
-:wrench: First, install the required tools:
+    The mobile version of the Proffy application containing a landing page, a page forstudentsto    search for proffys and contact them directly via whatsapp.
+    
+    ### :package: Stack: 
+    * react-native
+    * axios
+    * typescript
+    * expo
+        
+    #### :information_source: How to run the mobile application at your local machine:
+    :wrench: First, install the required tools:
+    
+    * [NodeJs](https://nodejs.org/en/download/)  
+    * [yarn](https://yarnpkg.com/getting-started/install): npm install -g yarn
+    * [expo-cli](https://expo.io/tools#cli): yarn global add expo-cli
+    
+    #### :white_check_mark: Prepare your environment:
+    
+    * :one: clone the repository from git
+    * :two: run:  yarn install
+    * :tree: run: yarn start 
+    
+    #### :earth_africa: expo will automatically open the metro bundler at your defaultbrowser.
+    
+    
+    ![](./readme/img/expo_metro_bundler.png)
+    
+    you can select the suimulators or scan the QR code with your mobile phone, 
+    for that you will need to install expo at your mobile phone from the app store.
 
-* [NodeJs](https://nodejs.org/en/download/)  
-* [yarn](https://yarnpkg.com/getting-started/install): npm install -g yarn
-* [expo-cli](https://expo.io/tools#cli): yarn global add expo-cli
-
-#### :white_check_mark: Prepare your environment:
-
-* :one: clone the repository from git
-* :two: run:  yarn install
-* :tree: run: yarn start 
-
-#### :earth_africa: expo will automatically open the metro bundler at your defaultbrowser.
 
 
-![](./readme/img/expo_metro_bundler.png)
-
-you can select the suimulators or scan the QR code with your mobile phone, 
-for that you will need to install expo at your mobile phone from the app store.
 - server:
     -- An api that allow us to record classes, connections, schedules and users and queryproffys by filtering their time availability.
     # Stack:
