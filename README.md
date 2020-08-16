@@ -2,7 +2,7 @@
 
 
 
-# :rocket: Thanks to RocketSeat for providing this [amazing](https://rocketseat.com.br/) 1 week bootcamp :clap:
+## :rocket: Thanks to RocketSeat for providing this [amazing](https://rocketseat.com.br/) 1 week bootcamp :clap:
 
 
 
