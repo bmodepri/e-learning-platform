@@ -23,8 +23,14 @@ The mobile version of the Proffy application containing a landing page, a page f
 :wrench: First, install the required tools:
 
 * [NodeJs](https://nodejs.org/en/download/)  
-* [yarn](https://yarnpkg.com/getting-started/install): npm install -g yarn
-* [expo-cli](https://expo.io/tools#cli): yarn global add expo-cli
+* [yarn](https://yarnpkg.com/getting-started/install):  
+```
+npm install -g yarn
+```
+* [expo-cli](https://expo.io/tools#cli):  
+```
+yarn global add expo-cli
+```
 
 #### :white_check_mark: Prepare your environment:
 
