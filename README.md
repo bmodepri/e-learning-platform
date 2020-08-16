@@ -57,7 +57,7 @@ for that you will need to install expo at your mobile phone from the app store.
 ## :computer: server:
 
 
-An api that allow us to record classes, connections, schedules and users and queryproffys by filtering their time availability.
+An api that allow us to record classes, connections, schedules and users and query proffys by filtering their time availability.
 
 ### :package: Stack: 
 
