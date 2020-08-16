@@ -98,11 +98,11 @@ $ yarn start
 
 :postbox: by sending a GET request from your preferred tool to one of the available endpoints:
 
-:email: GET: 
+:email: GET:  
 http://localhost:3333/classes  
 http://localhost:3333/connections  
 
-:outbox_tray: POST: 
+:outbox_tray: POST:  
 http://localhost:3333/classes  
 http://localhost:3333/connections  
 
