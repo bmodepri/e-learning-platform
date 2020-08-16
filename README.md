@@ -35,8 +35,14 @@ yarn global add expo-cli
 #### :white_check_mark: Prepare your environment:
 
 * :one: clone the repository from git
-* :two: run:  yarn install
-* :three: run: yarn start 
+* :two: run:  
+```
+yarn install
+```
+* :three: run:  
+```
+yarn start 
+```
 
 #### :earth_africa: expo will automatically open the metro bundler at your defaultbrowser.
 
