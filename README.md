@@ -105,9 +105,9 @@ The web version of the proffy app, here we can access a beautiful landing page, 
 * :two: run:  yarn install
 * :three: run: yarn start 
 
-        
+*******************************        
 ###### Thanks to RocketSeat: 
-###### the version 2 will be created as a challenge: 
-###### details are here: https://www.notion.so/Vers-o-2-0-Proffy-eefca1b981694cd0a895613bc6235970
+the version 2 will be created as a challenge: 
+details are here: https://www.notion.so/Vers-o-2-0-Proffy-eefca1b981694cd0a895613bc6235970
 
 
