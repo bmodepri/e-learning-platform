@@ -2,7 +2,7 @@
 
 
 
-## :rocket: Thanks to RocketSeat for providing this [amazing](https://rocketseat.com.br/) 1 week bootcamp :clap:
+## :rocket: Thanks to [Rocketseat](https://rocketseat.com.br/) for providing this amazing 1 week bootcamp :clap:
 
 
 :one: The first version includes tree solutions:
