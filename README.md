@@ -47,7 +47,7 @@ for that you will need to install expo at your mobile phone from the app store.
 
 An api that allow us to record classes, connections, schedules and users and queryproffys by filtering their time availability.
 
-#### Stack:
+### :package: Stack: 
 
 * [knex](http://knexjs.org/)
 * [typescript](https://www.typescriptlang.org/) 
@@ -94,7 +94,7 @@ Sample:
 
 The web version of the proffy app, here we can access a beautiful landing page, apagefor "proffys" to record the classes they are offering, a page for students tosearch forproffys and contact them directly via whatsapp.
 
-### Stack:
+### :package: Stack: 
 * [react-native](https://reactnative.dev/)
 * [axios](https://github.com/axios/axios)
 * [typescript](https://www.typescriptlang.org/)
