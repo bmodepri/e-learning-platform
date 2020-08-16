@@ -105,6 +105,9 @@ The web version of the proffy app, here we can access a beautiful landing page, 
 * :two: run:  yarn install
 * :three: run: yarn start 
 
+###### The app will open on your default browser, and now you are ready to Learn/Teach :wink:
+![](./readme/img/proffy_landing_page.png)
+
 *******************************        
 ###### Thanks to RocketSeat: 
 The version 2 will be created as a challenge: 
