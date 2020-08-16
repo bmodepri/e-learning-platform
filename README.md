@@ -15,10 +15,10 @@
 The mobile version of the Proffy application containing a landing page, a page forstudentsto search for proffys and contact them directly via whatsapp.
 
 ### :package: Stack: 
-* ![react-native](https://reactnative.dev/img/header_logo.svg)
-* ![axios](https://reactnative.dev/img/header_logo.svg)
-* ![typescript](https://www.typescriptlang.org/)
-* ![expo](https://docs.expo.io/static/images/header/sdk.svg)
+* [react-native](https://reactnative.dev/)
+* [axios](https://github.com/axios/axios)
+* [typescript](https://www.typescriptlang.org/)
+* [expo](https://expo.io/tools)
     
 #### :information_source: How to run the mobile application at your local machine:
 :wrench: First, install the required tools:
